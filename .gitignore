@@ -5,5 +5,5 @@ dags/**/*.pyc
 /logs
 /db-data
 .DS_Store
-./plugins/plugins.zip
+./plugins/*.zip
 ./plugins/plugins/*.whl
